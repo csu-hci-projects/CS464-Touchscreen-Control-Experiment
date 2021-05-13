@@ -13,6 +13,10 @@ Project and code: https://youtu.be/9PXQvJ1PBQY
 ### Project website
 https://cs.colostate.edu/~markylei/#/
 
+### Link to project survey
+
+https://forms.gle/mU2QQoNXcKEnX7V8A
+
 ### Sources
 Game Art:https://assetstore.unity.com/packages/essentials/tutorial-projects/2d-ufo-tutorial-52143 
 
