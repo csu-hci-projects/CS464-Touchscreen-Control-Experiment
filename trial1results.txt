@@ -1,0 +1,52 @@
+DV: Completion Time
+F1: Navigation, Joystick(seconds), Dpad(seconds)
+F2: .
+F3: .
+F4: .
+F5: .
+F6: .
+F7: .
+82, 53
+82, 73
+76, 93
+119, 87
+99, 64
+145, 92
+183, 116
+62, 56
+119, 74
+140, 112
+110, 87
+
+ANOVA_table_for_Completion Time
+=================================================================================
+Effect                        df        SS            MS         F        p      
+---------------------------------------------------------------------------------
+Participant                   10     14373.455      1437.345    
+Navigation                     1      4368.182      4368.182    16.192    0.0024
+Navigation_x_Par              10      2697.818       269.782    
+=================================================================================
+Data_file: trial1 copy.txt
+
+Summary statement:
+The effect of navigation on completion time was statistically significant (F(1, 10) = 16.192, p < .005).
+
+=============================
+----- MAIN EFFECT MEANS -----
+=============================
+Grand mean: 96.54545454545455
+Participant means: 
+   P0=67.50000
+   P1=77.50000
+   P2=84.50000
+   P3=103
+   P4=81.50000
+   P5=118.50000
+   P6=149.50000
+   P7=59
+   P8=96.50000
+   P9=126
+   P10=98.50000
+Navigation means: 
+   Joystick(seconds)=110.63636
+   Dpad(seconds)=82.45455
